@@ -1,0 +1,9 @@
+#Math Functions
+
+import math
+
+x = 25
+y = -2
+print(abs(y))
+
+print(math.sqrt(x))
